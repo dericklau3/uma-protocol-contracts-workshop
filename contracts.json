@@ -1,0 +1,38 @@
+{
+  "finder": {
+    "address": "0x3320eD5f870Cd895D27cf7A941D395A81C090F44"
+  },
+  "store": {
+    "address": "0x742a69fd498e2D5EE9C78fb7241D2635630C2C7D"
+  },
+  "addressWhitelist": {
+    "address": "0x5b94BF941Be261bCb32Ab6A5A6bC8B1CDf5C1f9c"
+  },
+  "identifierWhitelist": {
+    "address": "0x52a1C6c92De5A50A4a2d7B6b227c4075617cBF29"
+  },
+  "usdc": {
+    "address": "0x8542FC3a56280a3795990E243c2f99Eb2eBcD51E"
+  },
+  "optimisticOracleV2": {
+    "address": "0xAB7355A0fD1127a5d2f11651f9bB3e4837B3680d"
+  },
+  "registry": {
+    "address": "0x4acF4F3A51A43eA0a9636DFc55Aa991b25CC7632"
+  },
+  "votingToken": {
+    "address": "0x1280a36db46ce7BDe2ea412Ee76eC6A204c9bBaB"
+  },
+  "slashingLibrary": {
+    "address": "0x5D4E6a98dCc3E28abdDac15764fA4eb1C575b04C"
+  },
+  "votingV2": {
+    "address": "0x49b85ee36E5dAc99Ac1dC577e765bC9A64569911"
+  },
+  "designatedVotingFactory": {
+    "address": "0x2110BaC2be44596ea7fB4673Da689b23939B0427"
+  },
+  "governorV2": {
+    "address": "0x75a908074639857c0B5f6443d855e4F46CD31956"
+  }
+}

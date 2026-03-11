@@ -1,0 +1,77 @@
+{
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.15.0",
+      "rev": "0844d7e1fc5e60d77b68e469bff60265f236c398"
+    }
+  },
+  "lib/fx-portal": {
+    "tag": {
+      "name": "v1.0.4",
+      "rev": "baed24d22178201bca33140c303e0925661ec0ac"
+    }
+  },
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v4.9.6",
+      "rev": "dc44c9f1a4c3b10af99492eed84f83ed244203f6"
+    }
+  },
+  "lib/openzeppelin-contracts-upgradeable": {
+    "tag": {
+      "name": "v4.9.6",
+      "rev": "2d081f24cac1a867f6f73d512f2022e1fa987854"
+    }
+  },
+  "lib/optimism": {
+    "tag": {
+      "name": "@eth-optimism/contracts@0.5.40",
+      "rev": "295991b22bf4d572cf006578311346ba4ee48ee1"
+    }
+  },
+  "lib/safe-smart-account": {
+    "tag": {
+      "name": "v1.3.0",
+      "rev": "186a21a74b327f17fc41217a927dea7064f74604"
+    }
+  },
+  "lib/solidity-lib": {
+    "tag": {
+      "name": "v4.0.0-alpha",
+      "rev": "30e87d07077467d39e35f3ed0fa830cb92906df9"
+    }
+  },
+  "lib/solmate": {
+    "rev": "89365b880c4f3c786bdd453d4b8e8fe410344a69"
+  },
+  "lib/v2-core": {
+    "tag": {
+      "name": "v1.0.0",
+      "rev": "816075049f811f1b061bca81d5d040b96f4c07eb"
+    }
+  },
+  "lib/v2-periphery": {
+    "tag": {
+      "name": "v1.0.0-beta.0",
+      "rev": "949199ec79cf4b4a67c34da344f1ca7e9ce2acb2"
+    }
+  },
+  "lib/v3-core": {
+    "tag": {
+      "name": "v1.0.0-rc.2",
+      "rev": "3e88af408132fc957e3e406f65a0ce2b1ca06c3d"
+    }
+  },
+  "lib/v3-periphery": {
+    "tag": {
+      "name": "v1.0.0-beta.23",
+      "rev": "6682249a4fbf014043251adf5e96b819e522d9f1"
+    }
+  },
+  "lib/zodiac": {
+    "tag": {
+      "name": "v3.2.0",
+      "rev": "4098d623e7fd3b33a610885e37f7b85145421d74"
+    }
+  }
+}
