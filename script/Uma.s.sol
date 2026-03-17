@@ -7,7 +7,7 @@ import "./ContractCollection.sol";
 contract UmaScript is ContractCollection {
 
     bytes32 private constant YES_OR_NO_IDENTIFIER = "YES_OR_NO_QUERY";
-    uint256 defaultCurrencyFinalFee = 50e18; // Half of expected minimum bond.
+    uint256 defaultCurrencyFinalFee = 50e6; // Half of expected minimum bond.
     uint64 defaultLiveness = 7200; // 2 hours
 
     uint256 privatekey = vm.envUint("PRIVATEKEY");
